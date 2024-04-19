@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
-    <h1>Vuex</h1>
-      </div>
+    <h1>Vuex App</h1>
+  </div>
 </template>
 
 <script>
